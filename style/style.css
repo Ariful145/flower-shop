@@ -1,0 +1,173 @@
+/* banner section */
+
+body {
+   font-family: "Lato", sans-serif;
+}
+header {
+   background-color: #e554731a;
+   height: 800px;
+}
+nav {
+   background-color: black;
+   color: white;
+   text-align: center;
+   height: 100px;
+}
+.nav-title {
+   color: white;
+   padding-top: 30px;
+}
+
+.banner {
+   display: flex;
+   justify-content: space-between;
+}
+.banner-content {
+   padding: 50px 80px;
+}
+.banner-gretting {
+   color: #272727;
+   font-size: 60px;
+   font-weight: 800;
+}
+
+.banner-title {
+   color: rgba(39, 39, 39, 0.6);
+   font-weight: 400;
+}
+.btn-primary {
+   border-radius: 8px;
+   background: #e55473;
+   padding: 15px 35px;
+   color: aliceblue;
+}
+.banner-img {
+   background-position: bottom;
+   padding-right: 20px;
+}
+
+.features,
+footer {
+   text-align: center;
+   padding-top: 50px;
+}
+
+.features p {
+   color: rgba(39, 39, 39, 0.6);
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 30px;
+}
+
+.demo-section {
+   display: flex;
+   text-align: center;
+   justify-content: space-between;
+   width: 900px;
+   margin: 0 auto;
+}
+
+.pink {
+   border-radius: 300px 300px 0px 0px;
+   background: rgba(167, 33, 98, 0.15);
+}
+.demo-flowers img {
+   width: 200px;
+   height: 250px;
+}
+.underline {
+   text-decoration: underline;
+}
+.ice-blue {
+   border-radius: 300px 300px 0px 0px;
+   background: rgba(5, 151, 160, 0.15);
+   width: 370px;
+   height: 370px;
+}
+.off-white {
+   border-radius: 300px 300px 0px 0px;
+   background: rgba(71, 125, 17, 0.15);
+}
+.support-section {
+   display: flex;
+   text-align: center;
+   justify-content: space-between;
+   width: 900px;
+   margin: 0 auto;
+   border-radius: 8px;
+   background: rgba(39, 39, 39, 0.05);
+}
+
+.support {
+   padding: 50px 50px;
+}
+.off {
+   color: #e55473;
+}
+.hot-deal {
+   background-color: #e554731a;
+   height: 250px;
+   display: flex;
+   text-align: center;
+   justify-content: space-between;
+   margin-top: 70px;
+   padding: 50px 50px;
+}
+
+.hot-deal-content {
+   color: #272727;
+   font-size: 20px;
+   font-weight: 800;
+   text-align: center;
+   padding: 30px 0 20px 120px;
+}
+
+.hoat-deal-title {
+   color: rgba(39, 39, 39, 0.6);
+   text-align: center;
+   font-family: Lato;
+   font-size: 12px;
+   font-weight: 200;
+}
+.hot-deal-img {
+   padding: 0 130px 20px 0;
+}
+.hot-deal-img img {
+   width: 250px;
+   height: 280px;
+}
+.last-deal {
+   background: url("../images/Rectangle\ 9.png");
+   text-align: center;
+   width: 900px;
+   margin: 50px auto;
+}
+
+form {
+   padding-bottom: 40px;
+}
+
+input {
+   border-radius: 8px;
+   background: #fff;
+   width: 300px;
+   height: 40px;
+}
+footer {
+   background-color: black;
+   color: #fff;
+}
+.pink-f {
+   color: #e55473;
+}
+.white-f {
+   color: #fff;
+}
+.title-f {
+   color: #fff;
+}
+.credit {
+   color: grey;
+   font-size: 10px;
+   padding-bottom: 10px;
+}
